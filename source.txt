@@ -1,0 +1,8 @@
+1. node install : https://nodejs.org/en/download/
+2. npm install -g appium
+3. appium install : https://github.com/appium/appium-desktop/releases
+4. ANDROID_HOME, ANDROID_SDK_ROOT : C:\Users\tlsot\AppData\Local\Android\Sdk
+. 관리자권한 실행
+
+. pip install Appium-Python-Client
+
